@@ -1,0 +1,2 @@
+gcc main.c 92.c
+./a text1 text2
